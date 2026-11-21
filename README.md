@@ -25,6 +25,7 @@ Verba AI currently offers six AI-powered tools:
 - **OpenAI GPT-OSS 20B**
 
 ## Project Structure
+```text
 verba-ai/
 │
 ├── app.py
@@ -100,11 +101,10 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## ☁️ Deployment
+##  Deployment
 
 Verba AI is deployed using **Streamlit Community Cloud** and is accessible online.
 
-👉 [Open Verba AI](https://verba-ai.streamlit.app)
 
 ## Future Improvements
 
@@ -117,3 +117,4 @@ Planned features for future versions include:
 - Further UI and usability improvements
 
 Developed as a personal AI application project to explore AI-powered writing assistance, API integration and web application development.
+
